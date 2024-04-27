@@ -21,7 +21,7 @@ To set up the development environment and run the project locally, follow these 
 1. Clone the repository to your local machine:
 
 ```
-git clone <repository-url>
+git clone https://github.com/asteriskesky/capstone.git
 ```
 
 2. Install the required Node.js packages:
